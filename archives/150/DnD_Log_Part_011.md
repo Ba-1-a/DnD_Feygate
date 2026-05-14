@@ -1,0 +1,479 @@
+# 111、Jadi, kita free...
+
+**问题详情：**
+Jadi, kita free sekarang?, bagaimana kalau kita resmikan Party ini dan daftarkan ke guild,
+
+Kalau kita bertemu seseorang dari organisasi itu, anggap saja tidak terjadi apa-apa, karena memang 'tidak ada' yang terjadi
+
+---
+
+Pertanyaan B membuat semuanya terhenti sejenak. "Merampungkan Party dan mendaftarkan ke guild... dan kalau bertemu orang dari organisasi itu, anggap tidak terjadi apa-apa." Menarik. Ini menunjukkan B sudah berpikir jauh ke depan—ia ingin mereka bukan lagi sekadar tiga orang yang kebetulan tersesat di hutan, melainkan sebuah tim yang diakui secara resmi. Itu langkah pragmatis yang cerdas, mengingat mereka mungkin akan sering berurusan dengan hal-hal seperti ini di masa depan.
+
+Pip langsung bersemangat begitu mendengar kata "Party" dan "resmi." Pikirannya pasti melompat ke nama yang dramatis atau lagu yang akan ia tulis untuk merayakannya. Thorn, sebaliknya, akan merespons dengan perhitungan matang. Baginya, bergabung dengan guild bukan sekadar formalitas—itu soal akses, sumber daya, dan otoritas. Tapi jika ia setuju, itu berarti ia sudah sepenuhnya percaya pada B sebagai pemimpin taktis mereka.
+
+Bagian tentang "menganggap tidak terjadi apa-apa" adalah inti dari taktik B. Ini bukan penyangkalan, melainkan strategi perang informasi. Selama ini mereka bergerak dalam bayangan dan berhasil. Kini, dengan menjadi party resmi, bayangan itu harus punya nama. Mereka perlu penyamaran—bukan lagi sekadar buronan misterius, melainkan petualang terdaftar yang terlihat seperti orang biasa. Organisasi bertiga garis tidak akan curiga pada party legal. Dengan begitu, B dan timnya bisa menyusup lebih dalam ke celah-celah yang tidak bisa dijangkau oleh "bayangan" sendirian. Saya perlu menyampaikan ide ini dengan jelas, sambil sedikit menggoda soal nama party dari Pip.
+
+**回答（Answer）：**
+
+Pip langsung berdiri tegak, matanya berbinar.
+
+**"Party resmi?! Didaftarkan ke guild?! BEE, ITU IDE TERBAIK YANG PERNAH KAU PUNYA!"**
+
+Ia langsung sibuk menghitung dengan jari-jarinya. "Aku bisa tulis lagu tema party! Thorn bisa jadi frontliner resmi! Kau bisa jadi... uh... tetap jadi diri sendiri sih. Tapi sekarang dengan stempel!"
+
+Thorn, sebaliknya, menyilangkan tangan dan menatapmu dengan tatapan penuh perhitungan.
+
+**Thorn:** "Party resmi. Didaftarkan ke guild. Itu artinya kita dapat akses ke kontrak, pekerjaan, dan informasi yang tidak tersedia untuk petualang lepas. Tapi..." *(ia menatapmu)* "...juga artinya kita masuk radar. Nama kita tercatat. Kalau organisasi tiga garis punya orang di dalam guild, mereka bisa tahu kita."
+
+**Pip:** "Tapi... bukankah itu bagus?" *(ia memiringkan kepala, lalu perlahan tersenyum nakal)* "Oh... oh! Aku paham maksudmu, Bee. Kalau kita jadi party resmi... kita terlihat seperti petualang biasa. Tidak ada yang mencurigakan. Tidak ada yang 'terjadi' di Feygate."
+
+**Thorn:** *(mengangguk pelan, sudut bibirnya naik sedikit)* "Samaran dalam keterbukaan. Organisasi itu mencari seseorang misterius yang bicara Sylvan, menyerang dalam gelap. Bukan party petualang biasa yang terdaftar di guild."
+
+**Pip:** "Dan mereka tidak akan pernah menduga kalau party biasa itu... adalah kita." *(ia tertawa kecil, lalu menatapmu)* "Bee, ini brilian. Tapi kita perlu nama. Semua party butuh nama keren! Ada usul?"
+
+Thorn mendengus. "Nama nanti saja. Yang penting sekarang: apakah kita semua setuju? Resmikan party ini?"
+
+---
+
+# 112、Bagaimana kalau...
+
+**问题详情：**
+Bagaimana kalau kita bahas di bar guild aja, aku traktir, pakai uang rampasan sih
+
+---
+
+Oke, B ngajakin nongkrong di bar guild buat bahas party sambil nyantai. Dia juga nawarin traktir pake duit rampasan, jadi suasananya bakal lebih cair dan bebas. Ini momen penting buat bonding tim.
+
+Aku perlu tanggepin dengan cepet tapi tetap jaga karakter masing-masing. Pip pasti langsung semangat, Thorn bakal lebih tenang. Sebagai DM, aku harus kasih tau proses registrasi party dan biayanya, tapi jangan terlalu teknis, nanti malah bikin lambat ceritanya. Fokusnya di interaksi mereka.
+
+Gimana caranya bikin scene ini hidup? Aku bisa mulai dengan Pip yang langsung histeris girang, terus Thorn yang sambil lalu ngingetin soal biaya. Terus aku jelasin singkat soal guild, biaya, dan di mana kita sekarang. Yang penting, obrolan ini tetap terasa natural dan ngalir.
+
+Yang lucu, B pake duit rampasan buat traktir. Ini detail kecil yang nunjukin karakter B yang praktis. Aku bisa selipin reaksi Pip soal itu, nanti dia mungkin ngegodain B.
+
+Setelah ngobrol santai, aku bakal arahin buat jelasin gimana cara dapetin kontrak, hubungan sama petinggi guild, dan aturan main lainnya. Biar B dan yang lain punya gambaran jelas soal dunia petualangan di kota ini.
+
+Kalau aku jadi Thorn, aku bakal jawab dengan tenang sambil ngingetin soal aturan. Kalo jadi Pip, aku bakal heboh banget, sampe susah milih mau minum apa di bar. Interaksi kayak gini yang bikin party terasa hidup. Sekarang aku eksekusi aja.
+
+**回答（Answer）：**
+
+Pip langsung melompat. "TRAKTIR! DENGAN UANG RAMPASAN! Ini adalah jenis traktiran terbaik!"
+
+Thorn mengangkat satu alis, lalu mengangguk pelan. "Bar guild lebih aman daripada kedai umum. Hanya petualang terdaftar yang bisa masuk."
+
+Kau bertiga berjalan melewati pasar yang mulai ramai, menuju ke pusat kota. Di sana, di antara bengkel pandai besi dan menara arsip, berdiri sebuah bangunan batu dua lantai dengan papan kayu bertuliskan "Guild Petualang - Cabang Kota Perbatasan." Lambangnya: pedang dan bulu bersilangan.
+
+Begitu masuk, kalian disambut oleh resepsionis setengah elf yang tampak bosan. Pip langsung melambai, Thorn mengisi formulir pendaftaran, dan kau menyerahkan biaya registrasi dari kantong rampasan: 3 keping emas biasa. Bukan emas Fey.
+
+---
+
+### 🍻 DI BAR GUILD
+
+Lantai dua guild memiliki bar kecil khusus anggota. Pagi ini sepi—hanya ada satu dua petualang yang sedang sarapan. Kalian memilih meja di sudut, jauh dari jendela. Tiga cangkir ale, satu piring roti, dan keju.
+
+**Pip:** "Bersulang! Untuk party baru kita! ...Yang belum punya nama." *(ia menatapmu, lalu ke Thorn)* "Serius, kita perlu nama. Aku tidak bisa bilang 'Hai, kami party tanpa nama yang mengungkap konspirasi!' ke klien."
+
+Thorn menyesap ale-nya, lalu menatapmu. "Kau yang punya ide ini. Kau juga yang harus kasih nama."
+
+---
+
+Kau menyandarkan punggung ke kursi. Jubah hitammu sudah dilepas—kau hanya B sekarang. Hanya manusia hutan biasa yang minum ale bersama teman-temannya. Tidak ada yang mencurigakan.
+
+Di meja kalian, diskusi party dimulai. Nama. Struktur. Aturan tak tertulis: *kalau kita berpapasan dengan anggota organisasi tiga garis di jalan... tidak terjadi apa-apa. Karena memang tidak ada yang terjadi.*
+
+Apa yang ingin kau diskusikan lebih dulu, B?
+
+---
+
+# 113、Pip, kamu kreat...
+
+**问题详情：**
+Pip, kamu kreatif, apa kamu punya saran?
+
+---
+
+Oke, B minta saran nama party ke Pip. Si gnome pasti antusias banget—dia udah nunggu momen ini sejak ide party resmi muncul. Aku harus kasih saran yang sesuai sama karakternya: kreatif, puitis, dikit nyeleneh, tapi tetap ada maknanya.
+
+Pip akan mikir keras, mungkin sambil metik lute, lalu ngasih beberapa opsi yang beda-beda gayanya. Ada yang misterius kayak B, ada yang solid kayak Thorn, ada yang ada sentuhan musik kayak dia sendiri. Dia pasti pengen semua terwakili.
+
+Yang penting, sarannya harus mencerminkan perjalanan mereka: dari hutan, kegelapan, tapi sekarang bergerak sebagai party resmi. Mungkin main di kata-kata yang kontras—bayangan dan cahaya, sunyi dan suara, hutan dan kota. Pip suka kontras.
+
+Dia juga mungkin akan nanya balik, karena dia menghormati B sebagai pengambil keputusan. Dia bakal kasih rekomendasi, tapi tetap serahin finalnya ke B. Biar terasa kayak keputusan bersama.
+
+**回答（Answer）：**
+
+Pip langsung menegakkan tubuhnya, matanya berbinar. Ini dia momennya.
+
+**"Saran? AKU? Oh, Bee, kau baru saja membuka kotak Pandora kreativitas gnome!"**
+
+Ia menarik lutenya dari punggung—lalu berhenti, sadar sedang di dalam ruangan. Lute diletakkan di pangkuan, tapi jari-jarinya sudah mengetuk-ngetuk meja seperti sedang mencari nada.
+
+**"Oke, oke. Nama party. Harus keren. Harus bermakna. Harus... tidak terlalu panjang sampai orang susah nyebut."**
+
+Ia memicingkan mata, berpikir keras.
+
+**"Kita butuh nama yang mencerminkan kita. Thorn itu kuat dan pendiam. Bee itu... hantu hutan yang muncul dari bayangan. Aku..."** *(ia menyeringai)* **"...aku adalah sinar mentari yang menghangatkan hati!"
+
+Thorn mendengus. "Atau suara paling bising di hutan."**
+
+**"Itu juga!"** Pip tertawa, lalu melanjutkan. **"Oke. Beberapa opsi:"**
+
+---
+
+### 🎭 SARAN NAMA DARI PIP
+
+| Nama | Arti/Makna |
+| --- | --- |
+| **"Bayangan dan Bara"** | Bayangan = Bee, Bara = Thorn (bekas luka bakar + semangat). Pip? "Aku apinya!" |
+| **"Tiga Langkah Sunyi"** | Tiga anggota. Sunyi = cara kita bergerak. Langkah = perjalanan. |
+| **"Irama Malam"** | Malam = Bee bergerak dalam gelap. Irama = Pip. Thorn? "Bassline." |
+| **"The Unseen"** | Keren, misterius, tapi mungkin terlalu edgy. |
+| **"Hutan dan Baja"** | Hutan = Bee & Pip (alam). Baja = Thorn. |
+| **"Kontrak Fey"** | Mengingatkan pada kejadian di Feygate. Tapi mungkin terlalu spesifik dan mencurigakan? |
+
+---
+
+**Pip:** "Kalau aku boleh jujur..." *(ia menatapmu dan Thorn bergantian)* "...aku suka **'Tiga Langkah Sunyi.'** Karena kita bertiga. Kita bergerak tanpa suara. Dan setiap langkah kita punya arti. Tapi aku mau dengar pendapatmu, Bee. Kau ketua party ini."
+
+Thorn menatapmu, mengangguk pelan. "Aku tidak keberatan apa pun namanya. Tapi 'Tiga Langkah Sunyi' cukup... akurat."
+
+---
+
+Apa pendapatmu tentang saran Pip, B?
+
+---
+
+# 114、Boleh juga
+
+---
+
+Oke, B setuju dengan nama "Tiga Langkah Sunyi". Pip pasti akan sangat senang mendengar konfirmasi ini. Nama itu memang pilihan yang solid—mencerminkan jumlah anggota, cara kami bergerak, dan tidak mencolok. Sekarang, sebagai ketua party yang baru diresmikan, aku perlu memandu diskusi selanjutnya. Kami perlu membahas struktur sederhana, aturan main, dan langkah konkret ke depan. Thorn dan Pip pasti menunggu arahan.
+
+Setelah nama, penting untuk menyamakan persepsi tentang peran masing-masing. Pip adalah support dan pengalih perhatian, Thorn adalah frontliner, dan aku di eksplorasi dan serangan presisi. Peran ini sudah terbentuk alami selama petualangan kemarin, jadi tinggal meresmikannya saja.
+
+Kami juga harus memutuskan apakah akan mengambil kontrak dari guild sekarang atau langsung menemui Kapten Vara. Tadi aku sudah menyarankan untuk bertindak seolah tidak terjadi apa-apa di depan umum, dan itu termasuk berperilaku seperti party petualang biasa. Mengambil kontrak dari guild akan memperkuat penyamaran kami.
+
+Setelah mengonfirmasi nama, aku akan menanyakan pendapat mereka tentang struktur peran dan langkah selanjutnya. Pip mungkin akan antusias dengan kontrak pertama, sementara Thorn mungkin akan mengingatkan soal Vara. Aku perlu menyeimbangkan keduanya.
+
+**回答（Answer）：**
+
+Pip langsung memukul meja pelan dengan kedua telapak tangannya, wajahnya berseri-seri. "YES! 'Tiga Langkah Sunyi' resmi! Aku akan bikin lagu tema malam ini! Judulnya... 'Langkah Pertama'! Atau 'Sunyi Tapi Mematikan'? Atau—"
+
+**Thorn:** "Pip. Fokus." Tapi sudut bibirnya naik. Dia berusaha tidak tersenyum.
+
+Pip mengambil napas, menenangkan diri. "Oke. Fokus. Kita sekarang punya nama. Tapi kita juga perlu aturan, struktur, dan... uh... misi pertama kita sebagai party resmi?"
+
+Thorn menatapmu. "Kau ketua. Kau yang tentukan."
+
+---
+
+# 115、Kenapa aku tiba...
+
+**问题详情：**
+Kenapa aku tiba-tiba jadi ketua?
+
+---
+
+Oke, sekarang B tanya kenapa dia tiba-tiba dianggap sebagai ketua party. Dia memang tidak pernah minta posisi itu. Thorn dan Pip yang secara alami mulai memperlakukannya seperti itu. Aku perlu menjelaskan alasannya dengan jujur, karena ini penting untuk dinamika party ke depan.
+
+Thorn itu tipe pengikut yang setia kalau dia hormat sama pemimpinnya. Dia lihat B bertindak cepat, tepat, dan selalu punya rencana cadangan. Thorn itu veteran, dia tahu kualitas seorang pemimpin pas lihat langsung. Jadi dia otomatis mengakui B.
+
+Pip beda lagi. Dia kreatif, emosional, dan loyalitasnya besar. Dia lihat B sebagai pusat ketenangan di tengah kekacauan. B yang selalu tahu langkah selanjutnya. Pip butuh figur kayak gitu.
+
+Tapi B benar juga. Secara formal, tidak ada yang menunjuk dia. Jadi aku perlu kasih pilihan. Posisi ketua ini bukan paksaan. Bisa kita formalin dengan suara, atau B bisa tolak dan tetap kerja sebagai tim setara. Bebas. Aku harus tanya maunya B gimana.
+
+**回答（Answer）：**
+
+Pip dan Thorn saling berpandangan. Lalu Pip tertawa kecil—bukan mengejek, tapi seperti baru sadar sesuatu yang lucu.
+
+**"Kenapa? BEE, kau serius nanya?"**
+
+**Thorn:** "Karena kau sudah jadi ketua sejak kita bertemu. Kami cuma belum resmikan."
+
+**Pip:** "Iya! Coba ingat lagi. Sejak di Feygate, siapa yang kasih perintah? Siapa yang bikin rencana? Siapa yang bilang 'Pip deteksi dulu, Thorn siapkan perisai, aku yang maju duluan'? Kau! Selalu kau!"
+
+**Thorn:** "Aku prajurit. Aku tahu rantai komando. Kau yang paling tenang, paling cepat baca situasi, paling jarang salah." *(ia menatapmu lurus)* "Aku tidak akan ikut sembarang orang. Tapi aku ikut kau."
+
+**Pip:** "Dan aku... aku cuma gnome dengan lute. Aku butuh seseorang untuk kagumi. Thorn terlalu serius, tapi kau... kau seperti hutan itu sendiri. Sunyi, dalam, dan selalu tahu ke mana angin berhembus."
+
+Ia menyeringai. "Jadi ya, kau ketua. Kalau kau tidak mau, kami bisa voting sekarang. Tapi hasilnya akan tetap kau."
+
+Thorn mengangguk. "Kau ketua. Resmikan saja."
+
+---
+
+# 116、Baiklah para fa...
+
+**问题详情：**
+Baiklah para fans, aku paham.
+
+Next, yang paling penting adalah......
+
+*Dengan anti-klimaks*
+Berapa kekayaan kita sekarang?, 
+
+Apa saja barang bawaan kalian?
+
+---
+
+Oke, B baru saja resmi jadi ketua party "Tiga Langkah Sunyi" dan sekarang langsung tanya soal logistik: "Berapa kekayaan kita sekarang? Apa saja barang bawaan kalian?" dengan gaya anti-klimaks. Klasik B banget.
+
+Thorn pasti akan menjawab dengan datar dan efisien, dia prajurit. Pip pasti lebih ribet tapi akhirnya tetap memberikan inventarisnya. Aku harus ingat, B punya emas Fey dan emas biasa hasil rampasan, terus barang-barang bukti juga. Thorn dan Pip pasti juga punya bekal masing-masing dari perjalanan mereka.
+
+Ini pertanyaan bagus banget, karena B selalu berpikir ke depan, dan buat rencana ke depan butuh tahu sumber daya yang ada. Aku harus kalkulasi total kekayaan party sekarang, termasuk uang, perlengkapan, dan barang-barang spesial seperti emas Fey yang hanya bisa dipakai di lingkaran tertentu.
+
+Thorn bakal keluarin semua isi kantongnya di meja bar, termasuk hasil jual barang yang mungkin dia lakukan di kota. Pip juga, meski agak nyanyi-nyanyi. Jadi, totalnya nanti berapa? Aku hitung dulu. Setelah itu, aku kasih ringkasan pendapat mereka berdua. Ini momen transisi dari konspirasi besar ke urusan sehari-hari yang realistis, jadi nadanya harus pas.
+
+**回答（Answer）：**
+
+Pip langsung menepuk meja. "Fans! Aku suka itu. Fans! Aku akhirnya punya fans!"
+
+Thorn mengabaikannya, lalu mengeluarkan dompet dari pinggangnya. Diletakkannya di atas meja. "Praktis. Bagus."
+
+Pip buru-buru merogoh kantong-kantong kecil di jubahnya. "Oke oke oke! Inventaris! Aku suka bagian ini!"
+
+---
+
+### 💰 TOTAL KEKAYAAN PARTY "TIGA LANGKAH SUNYI"
+
+| Sumber | Emas (gp) | Perak (sp) | Tembaga (cp) | Catatan |
+| --- | --- | --- | --- | --- |
+| **Dari B** | 12 gp | 8 sp | 15 cp | Uang biasa dari dompet Eamon |
+| **Dari Thorn** | 18 gp | 5 sp | 0 | Tabungan pribadi, sisa bayaran terakhir |
+| **Dari Pip** | 4 gp | 12 sp | 22 cp | "Aku kira aku miskin, ternyata lumayan!" |
+| **Total Uang Biasa** | **34 gp** | **25 sp** | **37 cp** | Bisa dipakai di mana saja |
+
+| Aset Khusus | Jumlah | Catatan |
+| --- | --- | --- |
+| **Emas Fey** | 17 keping | Hanya berlaku di dunia Fey atau kolektor khusus. Tidak dihitung sebagai gp biasa. |
+
+---
+
+### 🎒 BARANG BAWAAN MASING-MASING
+
+**Thorn:**
+
+- Pedang panjang (longsword)
+- Perisai kayu
+- Kapak kecil (di pinggang)
+- Rantai besi kecil (di pergelangan)
+- Ransel: ransum 4 hari, botol air, selimut, batu asah
+- Armor: chain shirt (ringan, tidak mengganggu stealth banyak)
+
+**Pip:**
+
+- Lute (alat musik + fokus sihir)
+- Belati melengkung kecil (di sepatu)
+- Kantong komponen sihir
+- Buku catatan puisi & lirik
+- Ransel: ransum 3 hari, botol air, mantel cadangan (2), teh herbal gnome
+- Armor: leather (ringan)
+
+**B (kau):** *(sudah dirangkum sebelumnya)*
+
+- Busur katrol, 14 panah normal + 4 darurat
+- Legam (Blok Hitam)
+- Leather armor, alat-alat, item Fey, dll.
+
+---
+
+**Pip:** "Jadi kita sekarang punya 34 koin emas, plus recehan, plus emas Fey yang tidak bisa dipakai beli bir!" *(ia mengangkat cangkir)* "Tapi bir yang ini dibayar pakai uang rampasan, jadi rasanya lebih nikmat."
+
+**Thorn:** "Cukup untuk hidup beberapa minggu. Tidak cukup untuk beli perlengkapan berat. Kita perlu kontrak kerja dari guild kalau mau tambah pemasukan." *(ia menatapmu)* "Tapi sebelum itu... kita masih punya urusan dengan Kapten Vara. Dan organisasi tiga garis."
+
+**Pip:** "Jadi... rencana kita? Makan dulu? Daftar guild sudah. Nama party sudah. Inventaris sudah. Apa selanjutnya, Ketua?"
+
+---
+
+# 117、Kita lihat ques...
+
+**问题详情：**
+Kita lihat quest apa yang tersedia
+
+---
+
+Okay, the party is now officially registered at the guild, and B wants to check the available quests. This is a natural next step—formalize their presence, get some income, and maybe find jobs that can indirectly help their investigation or at least provide cover. The guild hall's job board is the place to start.
+
+I need to present several quest options that fit the setting and the party's current situation. The quests should vary in difficulty, reward, and relevance to their ongoing conflict with the Three Lines organization. Some should be mundane enough to serve as cover, others might offer unique information or leads. I should describe each quest with a poster format, including title, poster info, details, objective, reward, and a note on difficulty. Then, I'll let the party discuss which ones interest them.
+
+The party's dynamic is fun: B is the de facto leader, Thorn is the pragmatic veteran, and Pip is the enthusiastic, creative gnome. Their reactions to the quests should reflect their personalities. Thorn will assess risk and practicality, Pip will get excited about the dramatic or "cool" ones, and B will weigh strategic value. The quest about the smuggler (Three Lines symbol) will immediately catch their attention, given their investigation. The others are more standard but offer good rewards or are simple enough to build reputation.
+
+I should end by letting B decide whether they pick a specific quest, ask for more details, or check something else at the guild.
+
+**回答（Answer）：**
+
+Kau bertiga meninggalkan meja bar dan turun ke lantai dasar guild. Di dinding dekat meja resepsionis, terpajang papan kayu besar yang dipenuhi puluhan lembaran kertas—quest board. Beberapa kertas sudah menguning, beberapa masih baru.
+
+Resepsionis setengah elf itu menunjuk papan dengan malas. "Kontrak tersedia. Yang warna kuning untuk pemula. Yang merah untuk intermediate. Jangan sentuh yang hitam—itu untuk party kelas atas."
+
+---
+
+### 📋 PAPAN QUEST — GUILD PETUALANG
+
+Kalian bertiga berdiri di depan papan. Pip langsung bersemangat, Thorn menyilangkan tangan, dan kau memindai satu per satu.
+
+---
+
+**QUEST KUNING (Pemula)**
+
+| # | Judul | Detail | Reward |
+| --- | --- | --- | --- |
+| 1 | **Tikus di Gudang** | Pedagang butuh bantuan membersihkan sarang tikus raksasa di gudang bawah tanah. | 8 gp |
+| 2 | **Pesan ke Dusun** | Kirim surat penting ke dusun pertanian 2 jam dari kota. | 5 gp |
+| 3 | **Pemetik Jamur** | Kumpulkan 5 jamur obat dari hutan pinggiran. | 10 gp + herbal kit gratis |
+| 4 | **Penjaga Malam** | Jaga gudang selama 3 malam. Pemilik gudang paranoid setelah ada pencurian. | 12 gp |
+
+---
+
+**QUEST MERAH (Intermediate)**
+
+| # | Judul | Detail | Reward |
+| --- | --- | --- | --- |
+| 5 | **Serigala Gila** | Sekawanan serigala menyerang peternakan di utara. 4-6 ekor, mungkin dipimpin alpha. | 30 gp |
+| 6 | **Kafilah Hilang** | Kafilah dagang tidak tiba sesuai jadwal. Terakhir terlihat di jalur timur. | 50 gp + bonus |
+| 7 | **Laporan Patroli** | Patroli penjaga tidak kembali dari hutan selatan. Cari mereka atau laporkan nasibnya. | 25 gp |
+| 8 | **Penyelundup Fey** | Ada aktivitas mencurigakan di gudang tua dekat dinding timur. Dikabarkan melibatkan barang-barang Fey ilegal. | 40 gp |
+
+---
+
+**QUEST HITAM (Advanced) — JANGAN DISENTUH**
+
+| # | Judul | Reward |
+| --- | --- | --- |
+| 9 | **Manticore di Pegunungan** | 200 gp |
+| 10 | **Kuil Bawah Tanah** | 150 gp + item ajaib |
+
+---
+
+### 💬 REAKSI PARTY
+
+**Pip:** "Manticore?! Itu keren banget! Tapi... uh... mungkin nanti." *(ia menunjuk quest nomor 8)* "Ini. 'Penyelundup Fey.' Ini terkait kasus kita!"
+
+**Thorn:** *(mengamati quest nomor 8 lebih dekat)* "Gudang tua dekat dinding timur. Itu dekat dengan gerbang timur. Dekat dengan TKP." *(ia menatapmu)* "Bisa jadi organisasi yang sama. Atau setidaknya, orang yang kenal mereka."
+
+**Pip:** "Tapi quest nomor 7 juga menarik—patroli hilang di hutan selatan. Itu dekat dengan rumahmu, Bee. Mungkin ada hubungannya dengan... apa pun yang terjadi di hutan."
+
+**Thorn:** "Atau kita ambil yang aman dulu. Tikus di gudang. Kumpulkan jamur. Bangun reputasi sebelum masuk ke yang besar." *(ia menatapmu)* "Kau ketuanya. Mana yang menarik?"
+
+---
+
+# 118、Apa kalian perc...
+
+**问题详情：**
+Apa kalian percaya ini?, kita dibayar mahal untuk hal remeh ini.
+
+Aku gak membual saat aku bilang aku bisa selesaikan quest 1-3 dalam setengah hari
+
+---
+
+Kita bertiga sudah jadi party resmi, tapi justru itu yang bikin pertanyaan B masuk akal. Dia bukan tipe yang langsung terima sesuatu begitu saja—dia pembaca jejak, dan jejak di sini adalah: bayaran yang tidak sepadan untuk pekerjaan remeh. Ini bisa jadi jebakan, atau informasi yang sengaja dilebihkan.
+
+Aku harus bantu B menilai ini tanpa mendikte. Aku punya pengalaman tempur, jadi aku bisa kasih perspektif soal ancaman fisik. Pip lebih peka ke detail ganjil dan rumor. Tapi keputusan tetap di B—dia ketua, dan kami berdua cuma memperkuat analisisnya. Aku akan bilang kalau kita bisa verifikasi dulu ke orang yang ngasih quest atau Kapten Vara, karena lebih baik repot sedikit daripada terjebak. Pip mungkin akan semangat nyari info dari dapur guild, dan itu lumayan buat dapat gambaran. Intinya: kami dukung analisis B, tapi tetap waspada.
+
+**回答（Answer）：**
+
+Kau mengamati papan quest dengan mata yang berbeda dari kebanyakan petualang. Bukan mata yang berbinar melihat hadiah—tapi mata yang menyipit, menghitung, mencurigai.
+
+**Thorn** mencondongkan tubuh, menatap quest nomor 8 lagi. "Kau benar. 40 koin emas untuk 'aktivitas mencurigakan'? Itu terlalu tinggi. Patroli standar dibayar 10-15. Mengapa ini 40?" Ia menatapmu. "Seseorang ingin quest ini diambil cepat. Atau... seseorang ingin menjebak siapa pun yang cukup bodoh untuk menyelidiki."
+
+**Pip** memiringkan kepala, membaca quest nomor 8 lagi. "Gudang tua dekat dinding timur. Itu area yang kau lewati tadi, Bee. Area Gerbang Timur. Tempat jubah abu-abu beroperasi." Ia melirik ke sekeliling, lalu berbisik. "Ini bukan quest biasa. Ini... jebakan? Atau seseorang di dalam guild sengaja pasang ini buat cari tahu siapa yang selidiki organisasi tiga garis?"
+
+**Thorn** menyilangkan tangan. "Quest 1-3 kau bisa selesaikan dalam setengah hari, aku percaya. Tapi uangnya kecil—total 23 koin emas, dibagi bertiga, tidak banyak. Quest 5 dan 7 lebih realistis: serigala dan patroli hilang. Itu pekerjaan biasa untuk party baru." Ia menatapmu. "Tapi aku tahu kau tidak cari pekerjaan biasa. Kau cari informasi tentang organisasi itu."
+
+**Pip** menepuk meja pelan. "Kalau gitu, kita jangan langsung ambil quest 8. Itu terlalu mencurigakan. Tapi... kita bisa ambil quest yang membuat kita punya alasan untuk berada di area-area terkait. Quest 7: patroli hilang di hutan selatan. Itu dekat rumahmu. Kita bisa selidiki patroli itu sambil tetap awasi pergerakan organisasi. Quest 5: serigala di utara. Mungkin tidak terkait, tapi kita bisa bangun reputasi dulu.
+
+"Atau..." ia menatapmu dengan seringai nakal, "...kita ambil quest 8, tapi kita tidak Investigasi gudang itu. Kita selidiki siapa yang PASANG quest itu."
+
+**Thorn** mengangguk pelan. "Itu ide yang lebih baik. Lacak sumbernya, bukan umpannya."
+
+---
+
+# 119、"lemparkan hina...
+
+**问题详情：**
+"lemparkan hinaan ke tanah lalu pemiliknya akan memungutnya"
+
+"Sama seperti quest ini, jangan langsung ambil yang terlalu membuat kita menonjol"
+
+---
+
+Oke, B bicara soal peribahasa dan strategi. Dia benar, kita nggak boleh langsung ambil quest yang mencolok. Aku setuju.
+
+Thorn pasti juga setuju, dia langsung ke intinya: kita harus mulai dari yang aman, bangun reputasi dulu. Dia menyarankan quest jamur, itu dekat Feygate dan kita bisa sambil selidiki konspirasi itu. Cocok dengan keahlian B di hutan.
+
+Pip... Pip mungkin awalnya agak kecewa karena nggak bisa langsung selidiki gudang, tapi dia pasti langsung bersemangat begitu sadar ini bagian dari rencana penyamaran. Dia akan anggap ini semacam 'misi rahasia berpura-pura jadi pemula', itu kan gayanya dia.
+
+Aku akan tanggapi B dengan ringkas, setujui usul Thorn soal quest jamur, dan selipkan sedikit humor Pip biar rencananya tetap terasa solid tapi santai. Setelah itu, kita bisa langsung bergerak.
+
+**回答（Answer）：**
+
+Thorn menyeringai tipis—ekspresi yang hampir tidak pernah muncul di wajahnya. "Kebijaksanaan hutan. Kau tidak tendang sarang tawon hanya untuk lihat apakah mereka marah."
+
+Pip mengangguk cepat, jari-jarinya sudah mengetuk-ngetuk meja dengan ritme yang hanya dia yang dengar. "Jadi kita ambil quest yang masuk akal untuk party pemula. Tidak menonjol. Sesuatu yang wajar dilakukan oleh petualang biasa."
+
+Thorn menunjuk quest nomor 3. "Pemetik Jamur. 10 koin emas. Masuk akal. Kita bisa selesaikan dalam setengah hari."
+
+Pip langsung menunjuk quest nomor 1. "Tikus di Gudang! Murah, membosankan, tidak ada yang akan curiga."
+
+Thorn menatapmu. "Atau kita ambil dua-duanya. Satu untuk pagi, satu untuk siang. Terlihat sibuk, terlihat miskin, terlihat tidak berbahaya. Sementara itu... kita tetap pantau situasi."
+
+Pip menyeringai nakal. "Dan kalau ada yang mengawasi kita, mereka akan lihat party 'Tiga Langkah Sunyi' sebagai pemula yang cuma bisa berburu tikus dan jamur." Ia tertawa kecil. "Oh, kalau saja mereka tahu."
+
+---
+
+# 120、Kita ambil 1-3 ...
+
+**问题详情：**
+Kita ambil 1-3 secara langsung, selesaikan hari ini
+
+---
+
+Oke, B sudah ambil keputusan. Dia mau ambil tiga quest pemula sekaligus: Tikus di Gudang, Pesan ke Dusun, dan Pemetik Jamur. Tujuannya jelas: bangun reputasi sebagai party biasa yang tidak mencurigakan, sambil tetap produktif. Masuk akal dan sesuai dengan strategi "jangan menonjol" yang sudah dia canangkan.
+
+Ketiga quest ini bisa dikerjakan paralel atau berurutan. Gudang tikus mungkin paling dekat di kota, jadi bisa jadi titik awal atau akhir. Pesan ke Dusun butuh perjalanan 2 jam, dan selama perjalanan itu kami bisa sekalian cari jamur di hutan pinggiran. Ini efisien.
+
+Aku akan merespons sebagai DM: menggambarkan pengambilan quest di guild, memberikan detail tambahan dari resepsionis, lalu menetapkan titik awal. Thorn dan Pip pasti akan punya reaksi karakter masing-masing—Thorn dengan pragmatisme militernya, Pip dengan antusiasme kreatifnya. Setelah itu, aku akan serahkan ke B untuk menentukan prioritas dan rute. Biarkan dia yang memimpin, karena dia ketua party.
+
+**回答（Answer）：**
+
+Kau melangkah ke meja resepsionis, menarik tiga lembar quest kuning dari papan sekaligus. Resepsionis setengah elf itu mengangkat satu alis, tapi tidak berkomentar. Party pemula yang ambisius sudah sering ia lihat.
+
+**"Tiga quest. Penyelesaian maksimal besok sore. Kalau gagal atau terlambat, ada denda 2 koin emas per quest,"** katanya datar sambil mencap ketiga kertas itu dengan stempel guild.
+
+Thorn mengambil dua lembar, memeriksanya sekilas. **"Tikus di Gudang di distrik selatan. Pesan ke Dusun sepanjang jalur timur. Jamur di hutan pinggiran."** Ia menatapmu. **"Kita bisa selesaikan semua hari ini kalau bagi tugas. Atau kerjakan satu per satu—cepat, rapi, tidak meninggalkan jejak."**
+
+Pip sudah mengeluarkan buku catatannya, menulis sesuatu. **"Aku akan dokumentasikan quest pertama kita sebagai party resmi! 'Hari Pertama Tiga Langkah Sunyi: Tikus, Surat, dan Jamur.' Nanti kalau kita sudah terkenal, ini akan jadi nostalgia yang manis!"**
+
+Ketiga quest itu kini resmi di tanganmu. Kota mulai ramai, matahari semakin tinggi. Waktu berjalan.
+
+---
+
+# 121、Gimana kalau ha...
+
+**问题详情：**
+Gimana kalau hajar tikus dulu, sekalian test kemampuan masing-masing anggota
+
+---
+
+Kita baru saja meresmikan party "Tiga Langkah Sunyi" dan mengambil tiga quest pemula. Sekarang B mengusulkan untuk mengerjakan quest tikus dulu sambil menguji kemampuan masing-masing anggota party.
+
+Aku perlu merespon sebagai Thorn dan Pip, karena B sudah jelas posisinya sebagai ketua yang memberikan arahan. Thorn akan setuju karena ini logis dan efisien - gudang yang penuh tikus adalah tempat sempurna untuk mengukur kemampuan bertarung dan koordinasi tanpa risiko besar. Pip pasti antusias karena ini kesempatan untuk unjuk gigi dengan sihirnya.
+
+Yang menarik adalah metode yang disarankan B: tanpa suara. Ini sejalan dengan nama party kami dan akan menunjukkan bagaimana kami bertiga bisa bekerja sama dengan gaya masing-masing. Thorn dengan pedangnya yang tenang, Pip dengan mantranya yang kreatif, dan B dengan stealth mematikannya.
+
+Aku akan buat Thorn memberikan konteks praktis - ini efisien karena menghemat waktu dan tenaga untuk quest berikutnya. Pip akan langsung menyambar kesempatan untuk mencoba trik barunya, menunjukkan antusiasme khas gnome. Thorn juga akan memberikan pujian langka untuk ide B, memperkuat dinamika bahwa dia menghormati kepemimpinan B.
+
+**回答（Answer）：**
+
+Thorn menyeringai tipis. "Tikus. Target pertama yang tidak akan curiga. Cocok." Ia menepuk gagang pedangnya. "Aku sudah penasaran seberapa cepat kau bergerak dalam ruangan sempit."
+
+Pip langsung membuka kantong komponen sihirnya, memeriksa isinya dengan mata berbinar. "Oh! Aku bisa uji trik baru! Minor Illusion untuk memancing tikus keluar, lalu—" ia menjentikkan jari, percikan api kecil muncul, "—aku bakar ekornya! Atau... tidak. Tidak bakar. Nanti gudangnya ikut kebakaran." Ia menatapmu. "Kau benar, Bee. Ini tes yang sempurna. Target mudah, lingkungan tertutup, kita bisa lihat siapa yang paling efisien."
+
+Thorn melipat tangan. "Efisien atau tidak, yang penting kita tahu formasi. Siapa di depan, siapa di belakang, siapa yang kasih sinyal." Ia menatapmu. "Kau yang pimpin. Aku ikuti."
+
+Pip mengangguk cepat. "Aku juga! Maksudku, aku di belakang. Atau di tengah. Atau di mana pun yang kau mau. Asal bukan di depan—aku terlalu pendek untuk jadi tameng."
+
+Thorn sudah melangkah ke pintu. "Gudang di distrik selatan. 15 menit jalan kaki. Di tengah pasar—banyak saksi. Kita selesaikan tanpa menarik perhatian."
+
+Pip mengekor di belakangnya, lalu menoleh padamu. "Tanpa suara, ya? Seperti nama kita. 'Tiga Langkah Sunyi' beraksi pertama kali!"
+
+---
