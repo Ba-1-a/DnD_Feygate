@@ -9,7 +9,7 @@ Repositori ini dapat memiliki struktur berikut (sesuaikan dengan kebutuhan):
 
 - `/knowledge/` – Ringkasan, profil karakter, aturan homebrew, dan lore (**prioritas pertama**).
 - `/archives/` – Log percakapan mentah, chat history, atau arsip lain (**referensi kedua**).
-- `/pc/` atau `/npcs/` – Statistik karakter (jika ada).
+- `/Player Character/` atau `/npcs/` – Statistik karakter (jika ada).
 - `/assets/` – Gambar, peta, atau berkas pendukung lain.
 
 ## 🎯 Prioritas Akses untuk AI
