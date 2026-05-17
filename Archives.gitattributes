@@ -1,0 +1,2 @@
+# Pastikan semua file JSON di folder Archives diindeks
+Archives/200/**/*.json text linguist-generated=false
